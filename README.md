@@ -1,3 +1,3 @@
-# Neural-Networks-from-Scratch
+# Neural-Networks
 
-This Repository Consists of Neural Networks Implements from Scratch for deeper insight into the architecture
+This repository consists of implementation of various neural network architectures.
